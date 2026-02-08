@@ -77,7 +77,3 @@ messaging-system/
     └── src/
         └── App.js
 ```
-
-
-
-MIT
