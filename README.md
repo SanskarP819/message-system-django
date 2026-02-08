@@ -8,7 +8,6 @@ A simple full-stack application to manage and track Email, SMS, and WhatsApp mes
 - Send and view SMS logs
 - Send and view WhatsApp message logs
 - Input validation for all forms
-- Real-time notifications
 
 ## Tech Stack
 
